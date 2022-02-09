@@ -21,3 +21,5 @@ python SDM_designer.py
 - 解凍後のファイルから”SDM_designer.py”を移動している。
 - パッケージ”Biopython”がお使いのPCにインストールされていない。
 ### 3.元になる塩基配列の選択
+"Open the original seqence"の"open"ボタンをクリックし、元になる塩基配列が記録されているFASTAファイルを選択してください。<br>
+もしくは、"Direct input of sequence data"の項目をチェックした後に、右側の大きな欄に元になる塩基配列を直接入力。"open"ボタンをクリックして下さい。
