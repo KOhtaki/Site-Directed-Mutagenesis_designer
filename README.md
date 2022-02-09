@@ -1,4 +1,4 @@
-# TransfectionHelper
+# Site-Directed-Mutagenesis_designer
 ## 使用前に
 ”TransfectionHelper”は”Biopython”を利用しています。使用前に”Biopython”のインストールを行ってください。
 ```
