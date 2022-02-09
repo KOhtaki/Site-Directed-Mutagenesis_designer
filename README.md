@@ -20,3 +20,4 @@ python transfectin_helper.py
 - 作業場所が解凍後のファイルになっていない。
 - 解凍後のファイルから”transfectin_helper.py”を移動している。
 - パッケージ”Biopython”がお使いのPCにインストールされていない。
+### 3.元になる塩基配列の選択
