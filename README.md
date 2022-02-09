@@ -1,3 +1,6 @@
 # TransfectionHelper
 ## 使用前に
-### ”TransfectionHelper”は”tkinter”、”Biopython”を利用しています。使用前に各パッケージのインストールを行ってください。
+### ”TransfectionHelper”は”Biopython”を利用しています。使用前に”Biopython”のインストールを行ってください。
+```
+pip install biopython
+```
