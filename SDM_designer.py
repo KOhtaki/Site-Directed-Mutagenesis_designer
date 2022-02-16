@@ -171,7 +171,7 @@ def find_myseq():
     gene_info["text"] = "["+str(find_number+1)+"]to["+str(find_number2)+"],["+str(find_length)+"]s"
     #text_editor.selection_range(find_number,find_length)
 
-    if find_number>0 :
+    if find_number>=0 :
         text_editor.delete('1.0', tk.END)
         text_editor.insert(tk.END,gene[:find_number])
         text_editor.insert(tk.END, gene[find_number:find_number2], 'blue')
