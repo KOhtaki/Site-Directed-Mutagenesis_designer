@@ -432,7 +432,7 @@ def ALL_reset():
 # rootメインウィンドウの設定
 root = tk.Tk()
 root.title("gene")
-root.geometry()
+root.geometry("1900x1000")
 
 # メインフレームの作成と設置
 frame_height = 100
