@@ -20,7 +20,7 @@ python SDM_designer.py
 - 作業場所が解凍後のファイルになっていない。
 - 解凍後のファイルから”SDM_designer.py”を移動している。
 - パッケージ”Biopython”がお使いのPCにインストールされていない。
-### 1.部位特異的変異を導入した際のアミノ酸配列・塩基配列の変化予測
+## 1.部位特異的変異を導入した際のアミノ酸配列・塩基配列の変化予測
 ### 1-1.元になる塩基配列の選択
 "Open the original seqence"の"open"ボタンをクリックし、元になる塩基配列が記録されているFASTAファイルを選択。<br>
 もしくは、"Direct input of sequence data"の項目をチェックした後に、右側の大きな欄に元になる塩基配列を直接入力。"open"ボタンをクリック。<br>
@@ -63,7 +63,7 @@ python SDM_designer.py
 - b:新しく作成した配列
 - |:元になった配列と新しく作成した配列に置いて同一の箇所。
 - *:元になった配列と新しく作成した配列に置いて異なっている箇所。
-### 2.二つの配列の比較
+## 2.二つの配列の比較
 ### 2-1.一つ目の配列の選択
 "Open the original seqence"の"Comparison of original and new"にチェック。<br>
 "Open the original seqence"の"open"ボタンをクリックし、一つ目の塩基配列が記録されているFASTAファイルを選択。<br>
